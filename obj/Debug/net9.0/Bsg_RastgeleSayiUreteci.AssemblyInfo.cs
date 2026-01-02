@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bsg_RastgeleSayiUreteci")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9373ef04d62f6127aaa28e1d9ac3e4d3ade7b96c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a07698e543fea541a39957a09c1098bbfdaf61c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bsg_RastgeleSayiUreteci")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bsg_RastgeleSayiUreteci")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -33,7 +33,7 @@ namespace XorShiftRNG
 
             for (int i = 0; i < count; i++)
             {
-                // Örnek: 0..1_000_000 arası üretelim (istersen değiştir)
+                // Örnek: 0..1_000_000 arası üretelim 
                 int n = rng.NextInt(0, 1_000_000);
                 Console.Write(n);
                 if (i < count - 1) Console.Write(", ");
@@ -44,9 +44,7 @@ namespace XorShiftRNG
 
             Console.WriteLine("\nBitti.");
         }
-
-        // XorShift64* PRNG
-        // Not: Kriptografik amaçlı değildir (ödev/simülasyon amaçlı).
+       
         public sealed class XorShift64Star
         {
             private ulong _state;
@@ -90,7 +88,7 @@ namespace XorShiftRNG
                 ulong range = (ulong)(maxExclusive - minInclusive);
                 ulong value = NextUInt64();
 
-                // Mod ile aralığa indirgeme (ödev için yeterli)
+                // Mod ile aralığa indirgeme 
                 int result = (int)(value % range) + minInclusive;
                 return result;
             }
