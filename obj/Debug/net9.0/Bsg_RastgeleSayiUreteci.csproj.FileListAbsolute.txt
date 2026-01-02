@@ -1,0 +1,15 @@
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\bin\Debug\net9.0\Bsg_RastgeleSayiUreteci.exe
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\bin\Debug\net9.0\Bsg_RastgeleSayiUreteci.deps.json
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\bin\Debug\net9.0\Bsg_RastgeleSayiUreteci.runtimeconfig.json
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\bin\Debug\net9.0\Bsg_RastgeleSayiUreteci.dll
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\bin\Debug\net9.0\Bsg_RastgeleSayiUreteci.pdb
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\obj\Debug\net9.0\Bsg_RastgeleSayiUreteci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\obj\Debug\net9.0\Bsg_RastgeleSayiUreteci.AssemblyInfoInputs.cache
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\obj\Debug\net9.0\Bsg_RastgeleSayiUreteci.AssemblyInfo.cs
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\obj\Debug\net9.0\Bsg_RastgeleSayiUreteci.csproj.CoreCompileInputs.cache
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\obj\Debug\net9.0\Bsg_RastgeleSayiUreteci.sourcelink.json
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\obj\Debug\net9.0\Bsg_RastgeleSayiUreteci.dll
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\obj\Debug\net9.0\refint\Bsg_RastgeleSayiUreteci.dll
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\obj\Debug\net9.0\Bsg_RastgeleSayiUreteci.pdb
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\obj\Debug\net9.0\Bsg_RastgeleSayiUreteci.genruntimeconfig.cache
+C:\Users\yyunu\Desktop\EduLink\Bsg_RastgeleSayiUreteci\obj\Debug\net9.0\ref\Bsg_RastgeleSayiUreteci.dll
